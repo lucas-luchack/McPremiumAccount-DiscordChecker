@@ -1,0 +1,18 @@
+{
+    "token": "",
+    "prefix": "mc!",
+    "PrimaryColor": "#E74C3C",
+    "DangerColor": "#B20000",
+    "InfoColor": "#6897BB",
+    "SuccessColor": "#47b60f",
+    "BlackColor": "#36393F",
+    "IDRoleCracked": "",
+    "IDRolePremium": "",
+    "IDBotChannel": "",
+    "debug": false,
+    "ErrorIcon": "https://freeiconshop.com/wp-content/uploads/edd/error-flat.png",
+    "Webhook": {
+      "id": "",
+      "token": ""
+    }
+}
