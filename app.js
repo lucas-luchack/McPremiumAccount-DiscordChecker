@@ -1,7 +1,7 @@
 /*
     @document   : app.js
     @author     : Luc'HACK <luchack@valbion.com>
-    @version    : 1.0.0
+    @version    : 1.0.1
     @copyright  : 2020, Luc'HACK
     @license    : GNU General Public License v3.0
     @repository : https://github.com/lucas-luchack/McPremiumAccout-DiscordChecker
