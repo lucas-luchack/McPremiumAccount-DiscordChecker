@@ -1,6 +1,6 @@
 {
     "name": "mcpremiumaccout-discordchecker",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A bot for Discord that allows to check if the player has a Minecraft Premium account.",
     "main": "app.js",
     "private": true,
