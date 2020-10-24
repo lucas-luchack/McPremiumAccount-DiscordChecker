@@ -1,0 +1,26 @@
+{
+    "name": "mcpremiumaccout-discordchecker",
+    "version": "1.0.0",
+    "description": "A bot for Discord that allows to check if the player has a Minecraft Premium account.",
+    "main": "app.js",
+    "private": true,
+    "author": {
+        "name": "Luc'HACK",
+        "email": "luchack@valbion.com",
+        "url": "https://luchack.valbion.com"
+    },
+    "bugs": "https://github.com/lucas-luchack/McPremiumAccout-DiscordChecker/issues",
+    "license": "GPL-3.0",
+    "repository": "github:lucas-luchack/McPremiumAccout-DiscordChecker",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "request": "^2.88.2"
+    },
+    "engines": {
+        "node": ">= 12.0.0",
+        "npm": ">= 3.0.0"
+    }
+}
